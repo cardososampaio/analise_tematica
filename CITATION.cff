@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Se você usar esta skill, cite-a conforme abaixo."
+title: "Análise Temática Reflexiva"
+type: software
+authors:
+  - family-names: "Sampaio"
+    given-names: "Rafael"
+license: "CC-BY-4.0"
+abstract: "Skill em português para agentes de IA, voltada à Análise Temática Reflexiva autônoma ou por checkpoints, com separação entre quem analisa, contesta e avalia, registro único de evidências, verificação literal, auditoria computável e estatuto calibrado."
+url: "https://github.com/labiia-lab/analise-tematica-reflexiva"
+version: "2.0.0"
+date-released: 2026-11-16
